@@ -7,18 +7,18 @@ TORQ uses BOVW and KMeans clustering to train the model and KNN search to classi
 # Installation
 create Virtual Environment by using the following commands in windows command prompt:
 
-`
-	python -m venv .venv
-	.venv\Scripts\activate.bat
-	python -m pip install -r requirements.txt
-`
+```
+	python -m venv .venv 
+	.venv\Scripts\activate.bat  
+	python -m pip install -r requirements.txt\
+```
 or the following commands in bash:
 
-`
+```
 	python3 -m venv .venv
 	source .venv/bin/activate
 	python3 -m pip install -r requirements.txt
-`
+```
 Then run main.py
 
 # Requirements
